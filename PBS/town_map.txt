@@ -39,3 +39,51 @@ Point = 13,16,Aquí
 Name = Tiall
 Filename = mapRegion2.png
 Point = 13,16,Aquí
+
+#-------------------------------
+[3]
+Name = Tiall
+Filename = mapRegion3.png
+Point = 13,16,Aquí
+
+#-------------------------------
+[4]
+Name = Tiall
+Filename = mapRegion4.png
+Point = 13,16,Aquí
+
+#-------------------------------
+[5]
+Name = Tiall
+Filename = mapRegion5.png
+Point = 13,16,Aquí
+
+#-------------------------------
+[6]
+Name = Tiall
+Filename = mapRegion6.png
+Point = 13,16,Aquí
+
+#-------------------------------
+[7]
+Name = Tiall
+Filename = mapRegion7.png
+Point = 13,16,Aquí
+
+#-------------------------------
+[8]
+Name = Tiall
+Filename = mapRegion8.png
+Point = 13,16,Aquí
+
+#-------------------------------
+[9]
+Name = Tiall
+Filename = mapRegion9.png
+Point = 13,16,Aquí
+
+#-------------------------------
+[10]
+Name = Tiall
+Filename = mapRegion10.png
+Point = 13,16,Aquí
