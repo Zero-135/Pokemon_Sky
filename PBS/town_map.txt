@@ -34,3 +34,8 @@ Point = 22,16,Isla Dyson,,,,,52
 Name = Tiall
 Filename = mapRegion1.png
 Point = 13,16,Aquí
+#-------------------------------
+[2]
+Name = Tiall
+Filename = mapRegion2.png
+Point = 13,16,Aquí

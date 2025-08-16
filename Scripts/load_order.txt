@@ -1,0 +1,450 @@
+load_order.txt
+Scripts
+Scripts\==================.rb
+Scripts\[[ Settings ]].rb
+Scripts\Settings.rb
+Scripts\BattleSettings.rb
+Scripts\Settings_Extra_Base.rb
+Scripts\================== (1).rb
+Scripts\[[ Technical ]].rb
+Scripts\MKXP_Compatibility.rb
+Scripts\RubyUtilities.rb
+Scripts\Intl_Messages.rb
+Scripts\Input.rb
+Scripts\PluginManager.rb
+Scripts\RPG_Sprite.rb
+Scripts\================== (2).rb
+Scripts\[[ Debugging ]].rb
+Scripts\PBDebug.rb
+Scripts\DebugConsole.rb
+Scripts\Errors.rb
+Scripts\Validation.rb
+Scripts\Deprecation.rb
+Scripts\================== (3).rb
+Scripts\[[ Files ]].rb
+Scripts\FileTests.rb
+Scripts\FileMixins.rb
+Scripts\HTTP_Utilities.rb
+Scripts\================== (4).rb
+Scripts\[[ Save data ]].rb
+Scripts\SaveData.rb
+Scripts\SaveData_Value.rb
+Scripts\SaveData_Conversion.rb
+Scripts\Game_SaveValues.rb
+Scripts\Game_SaveConversions.rb
+Scripts\================== (5).rb
+Scripts\[[ Game processing ]].rb
+Scripts\StartGame.rb
+Scripts\Scene_Map.rb
+Scripts\Interpreter.rb
+Scripts\Interpreter_Commands.rb
+Scripts\Event_Handlers.rb
+Scripts\Event_HandlerCollections.rb
+Scripts\================== (6).rb
+Scripts\[[ Game classes ]].rb
+Scripts\Game_Screen.rb
+Scripts\Game_System.rb
+Scripts\Game_Picture.rb
+Scripts\Game_Map.rb
+Scripts\Game_MapFactory.rb
+Scripts\Game_Character.rb
+Scripts\Game_Event.rb
+Scripts\Game_Player.rb
+Scripts\Game_CommonEvent.rb
+Scripts\Game_Follower.rb
+Scripts\Game_FollowerFactory.rb
+Scripts\Game_Stats.rb
+Scripts\================== (7).rb
+Scripts\[[ Switches and Variables ]].rb
+Scripts\Game_Temp.rb
+Scripts\Game_Switches.rb
+Scripts\Game_Variables.rb
+Scripts\Game_SelfSwitches.rb
+Scripts\================== (8).rb
+Scripts\[[ Sprites ]].rb
+Scripts\Sprite_Picture.rb
+Scripts\Sprite_Timer.rb
+Scripts\Sprite_Character.rb
+Scripts\Sprite_Reflection.rb
+Scripts\Sprite_SurfBase.rb
+Scripts\Spriteset_Global.rb
+Scripts\Spriteset_Map.rb
+Scripts\Sprite_AnimationSprite.rb
+Scripts\Sprite_DynamicShadows.rb
+Scripts\PictureEx.rb
+Scripts\ScreenPosHelper.rb
+Scripts\================== (9).rb
+Scripts\[[ Map renderer ]].rb
+Scripts\TilemapRenderer.rb
+Scripts\TilesetWrapper.rb
+Scripts\AutotileExpander.rb
+Scripts\TileDrawingHelper.rb
+Scripts\================== (10).rb
+Scripts\[[ Objects and windows ]].rb
+Scripts\RPG_Cache.rb
+Scripts\MessageConfig.rb
+Scripts\Window.rb
+Scripts\SpriteWindow.rb
+Scripts\SpriteWindow_text.rb
+Scripts\SpriteWindow_pictures.rb
+Scripts\BitmapSprite.rb
+Scripts\AnimatedBitmap.rb
+Scripts\Planes.rb
+Scripts\DrawText.rb
+Scripts\Messages.rb
+Scripts\TextEntry.rb
+Scripts\================== (11).rb
+Scripts\[[ Audio ]].rb
+Scripts\Audio.rb
+Scripts\Audio_Play.rb
+Scripts\================== (12).rb
+Scripts\[[ Scenes ]].rb
+Scripts\Transitions.rb
+Scripts\EventScene.rb
+Scripts\================== (13).rb
+Scripts\[[ Data ]].rb
+Scripts\GameData.rb
+Scripts\================== (14).rb
+Scripts\[[ Hardcoded data ]].rb
+Scripts\GrowthRate.rb
+Scripts\GenderRatio.rb
+Scripts\EggGroup.rb
+Scripts\BodyShape.rb
+Scripts\BodyColor.rb
+Scripts\Habitat.rb
+Scripts\Evolution.rb
+Scripts\Stat.rb
+Scripts\Nature.rb
+Scripts\Status.rb
+Scripts\TerrainTag.rb
+Scripts\Weather.rb
+Scripts\EncounterType.rb
+Scripts\Environment.rb
+Scripts\BattleWeather.rb
+Scripts\BattleTerrain.rb
+Scripts\Target.rb
+Scripts\================== (15).rb
+Scripts\[[ PBS data ]].rb
+Scripts\MiscPBSData.rb
+Scripts\TownMap.rb
+Scripts\Type.rb
+Scripts\Ability.rb
+Scripts\Move.rb
+Scripts\Item.rb
+Scripts\BerryPlant.rb
+Scripts\Species.rb
+Scripts\Species_files.rb
+Scripts\SpeciesMetrics.rb
+Scripts\ShadowPokemon.rb
+Scripts\Ribbon.rb
+Scripts\Encounter.rb
+Scripts\TrainerType.rb
+Scripts\Trainer.rb
+Scripts\Metadata.rb
+Scripts\PlayerMetadata.rb
+Scripts\MapMetadata.rb
+Scripts\DungeonTileset.rb
+Scripts\DungeonParameters.rb
+Scripts\PhoneMessage.rb
+Scripts\================== (16).rb
+Scripts\[[ Battle ]].rb
+Scripts\Battle.rb
+Scripts\Battle_StartAndEnd.rb
+Scripts\Battle_ExpAndMoveLearning.rb
+Scripts\Battle_ActionAttacksPriority.rb
+Scripts\Battle_ActionSwitching.rb
+Scripts\Battle_ActionUseItem.rb
+Scripts\Battle_ActionRunning.rb
+Scripts\Battle_ActionOther.rb
+Scripts\Battle_CommandPhase.rb
+Scripts\Battle_AttackPhase.rb
+Scripts\Battle_EndOfRoundPhase.rb
+Scripts\================== (17).rb
+Scripts\[[ Battler ]].rb
+Scripts\Battle_Battler.rb
+Scripts\Battler_Initialize.rb
+Scripts\Battler_ChangeSelf.rb
+Scripts\Battler_Statuses.rb
+Scripts\Battler_StatStages.rb
+Scripts\Battler_AbilityAndItem.rb
+Scripts\Battler_UseMove.rb
+Scripts\Battler_UseMoveTargeting.rb
+Scripts\Battler_UseMoveSuccessChecks.rb
+Scripts\Battler_UseMoveTriggerEffects.rb
+Scripts\================== (18).rb
+Scripts\[[ Move ]].rb
+Scripts\Battle_Move.rb
+Scripts\Move_Usage.rb
+Scripts\Move_UsageCalculations.rb
+Scripts\Move_BaseEffects.rb
+Scripts\MoveEffects_Misc.rb
+Scripts\MoveEffects_BattlerStats.rb
+Scripts\MoveEffects_BattlerOther.rb
+Scripts\MoveEffects_MoveAttributes.rb
+Scripts\MoveEffects_MultiHit.rb
+Scripts\MoveEffects_Healing.rb
+Scripts\MoveEffects_Items.rb
+Scripts\MoveEffects_ChangeMoveEffect.rb
+Scripts\MoveEffects_SwitchingActing.rb
+Scripts\================== (19).rb
+Scripts\[[ Scene ]].rb
+Scripts\Battle_Scene.rb
+Scripts\Scene_Initialize.rb
+Scripts\Scene_ChooseCommands.rb
+Scripts\Scene_PlayAnimations.rb
+Scripts\Battle_Scene_Menus.rb
+Scripts\Battle_Scene_Objects.rb
+Scripts\Battle_Scene_BaseAnimation.rb
+Scripts\Battle_Scene_Animations.rb
+Scripts\Battle_DebugScene.rb
+Scripts\Battle_Scene_Arceus_Transform.rb
+Scripts\================== (20).rb
+Scripts\[[ AI ]].rb
+Scripts\Battle_AI.rb
+Scripts\AI_Switch.rb
+Scripts\AI_UseItem.rb
+Scripts\AI_MegaEvolve.rb
+Scripts\AI_ChooseMove.rb
+Scripts\AI_ChooseMove_GenericEffects.rb
+Scripts\AI_ChooseMove_OtherScores.rb
+Scripts\AI_Utilities.rb
+Scripts\AITrainer.rb
+Scripts\AIBattler.rb
+Scripts\AIMove.rb
+Scripts\================== (21).rb
+Scripts\[[ AI MoveEffects ]].rb
+Scripts\AI_MoveEffects_Misc.rb
+Scripts\AI_MoveEffects_BattlerStats.rb
+Scripts\AI_MoveEffects_BattlerOther.rb
+Scripts\AI_MoveEffects_MoveAttributes.rb
+Scripts\AI_MoveEffects_MultiHit.rb
+Scripts\AI_MoveEffects_Healing.rb
+Scripts\AI_MoveEffects_Items.rb
+Scripts\AI_MoveEffects_ChangeMoveEffect.rb
+Scripts\AI_MoveEffects_SwitchingActing.rb
+Scripts\================== (22).rb
+Scripts\[[ Other battle code ]].rb
+Scripts\PBEffects.rb
+Scripts\Battle_ActiveField.rb
+Scripts\Battle_DamageState.rb
+Scripts\Battle_Peers.rb
+Scripts\Battle_CatchAndStoreMixin.rb
+Scripts\Battle_Clauses.rb
+Scripts\BattleAnimationPlayer.rb
+Scripts\Battle_AbilityEffects.rb
+Scripts\Battle_ItemEffects.rb
+Scripts\Battle_PokeBallEffects.rb
+Scripts\================== (23).rb
+Scripts\[[ Other battle types ]].rb
+Scripts\SafariBattle.rb
+Scripts\BugContestBattle.rb
+Scripts\BattlePalaceBattle.rb
+Scripts\BattleArenaBattle.rb
+Scripts\RecordedBattle.rb
+Scripts\================== (24).rb
+Scripts\[[ Overworld ]].rb
+Scripts\Overworld.rb
+Scripts\Overworld_Metadata.rb
+Scripts\Overworld_Time.rb
+Scripts\Overworld_FieldMoves.rb
+Scripts\Overworld_Fishing.rb
+Scripts\Overworld_BerryPlants.rb
+Scripts\Overworld_DayCare.rb
+Scripts\Overworld_RandomDungeons.rb
+Scripts\================== (25).rb
+Scripts\[[ Overworld visuals ]].rb
+Scripts\Overworld_Weather.rb
+Scripts\Overworld_Overlays.rb
+Scripts\Overworld_MapTransitionAnims.rb
+Scripts\================== (26).rb
+Scripts\[[ Battle triggering ]].rb
+Scripts\Overworld_BattleStarting.rb
+Scripts\Overworld_BattleIntroAnim.rb
+Scripts\Overworld_WildEncounters.rb
+Scripts\Overworld_EncounterModifiers.rb
+Scripts\Overworld_RoamingPokemon.rb
+Scripts\================== (27).rb
+Scripts\[[ Items ]].rb
+Scripts\Item_Utilities.rb
+Scripts\Item_Effects.rb
+Scripts\Item_BattleEffects.rb
+Scripts\Item_Phone.rb
+Scripts\Item_PokeRadar.rb
+Scripts\Item_Mail.rb
+Scripts\Item_Sprites.rb
+Scripts\PokemonBag.rb
+Scripts\================== (28).rb
+Scripts\[[ Pokemon ]].rb
+Scripts\Pokemon.rb
+Scripts\Pokemon_MegaEvolution.rb
+Scripts\Pokemon_ShadowPokemon.rb
+Scripts\Pokemon_Move.rb
+Scripts\Pokemon_Owner.rb
+Scripts\================== (29).rb
+Scripts\[[ Pokemon-related ]].rb
+Scripts\FormHandlers.rb
+Scripts\ShadowPokemon_Other.rb
+Scripts\Pokemon_Sprites.rb
+Scripts\PokemonStorage.rb
+Scripts\================== (30).rb
+Scripts\[[ Trainers and player ]].rb
+Scripts\Trainer_Class.rb
+Scripts\Trainer_LoadAndNew.rb
+Scripts\Trainer_Sprites.rb
+Scripts\Player.rb
+Scripts\Player_Pokedex.rb
+Scripts\================== (31).rb
+Scripts\[[ UI ]].rb
+Scripts\UI_base.rb
+Scripts\UI_PauseMenu.rb
+Scripts\UI_Pokedex_Menu.rb
+Scripts\UI_Pokedex_Main.rb
+Scripts\UI_Pokedex_Entry.rb
+Scripts\UI_Party.rb
+Scripts\UI_Summary.rb
+Scripts\UI_Bag.rb
+Scripts\UI_Pokegear.rb
+Scripts\UI_RegionMap.rb
+Scripts\UI_Phone.rb
+Scripts\UI_Jukebox.rb
+Scripts\UI_TrainerCard.rb
+Scripts\UI_Load.rb
+Scripts\UI_Save.rb
+Scripts\UI_Options.rb
+Scripts\UI_ReadyMenu.rb
+Scripts\UI_PokemonStorage.rb
+Scripts\UI_ItemStorage.rb
+Scripts\UI_PC.rb
+Scripts\UI_PokeMart.rb
+Scripts\UI_BattlePointShop.rb
+Scripts\UI_MoveRelearner.rb
+Scripts\UI_PurifyChamber.rb
+Scripts\UI_MysteryGift.rb
+Scripts\UI_TextEntry.rb
+Scripts\================== (32).rb
+Scripts\[[ Non-interactive UI ]].rb
+Scripts\UI_SplashesAndTitleScreen.rb
+Scripts\UI_Controls.rb
+Scripts\UI_EggHatching.rb
+Scripts\UI_Evolution.rb
+Scripts\UI_Trading.rb
+Scripts\UI_HallOfFame.rb
+Scripts\UI_Credits.rb
+Scripts\================== (33).rb
+Scripts\[[ Minigames ]].rb
+Scripts\Minigame_Duel.rb
+Scripts\Minigame_TripleTriad.rb
+Scripts\Minigame_SlotMachine.rb
+Scripts\Minigame_VoltorbFlip.rb
+Scripts\Minigame_Lottery.rb
+Scripts\Minigame_Mining.rb
+Scripts\Minigame_TilePuzzles.rb
+Scripts\================== (34).rb
+Scripts\[[ Alternate battle modes ]].rb
+Scripts\SafariZone.rb
+Scripts\BugContest.rb
+Scripts\================== (35).rb
+Scripts\[[ Battle Frontier ]].rb
+Scripts\Challenge_BattleChallenge.rb
+Scripts\Challenge_Data.rb
+Scripts\Challenge_ChooseFoes.rb
+Scripts\Challenge_Battles.rb
+Scripts\UI_BattleSwap.rb
+Scripts\================== (36).rb
+Scripts\[[ Battle Frontier rules ]].rb
+Scripts\Challenge_ChallengeRules.rb
+Scripts\Challenge_Rulesets.rb
+Scripts\Challenge_EntryRestrictions.rb
+Scripts\Challenge_LevelAdjustment.rb
+Scripts\Challenge_BattleRules.rb
+Scripts\================== (37).rb
+Scripts\[[ Battle Frontier generator ]].rb
+Scripts\ChallengeGenerator_Data.rb
+Scripts\ChallengeGenerator_Pokemon.rb
+Scripts\ChallengeGenerator_Trainers.rb
+Scripts\ChallengeGenerator_BattleSim.rb
+Scripts\================== (38).rb
+Scripts\[[ Utilities ]].rb
+Scripts\Utilities.rb
+Scripts\Utilities_Pokemon.rb
+Scripts\Utilities_BattleAudio.rb
+Scripts\================== (39).rb
+Scripts\[[ Debug ]].rb
+Scripts\Editor_Utilities.rb
+Scripts\Editor_DataTypes.rb
+Scripts\Editor_Listers.rb
+Scripts\================== (40).rb
+Scripts\[[ Editor screens ]].rb
+Scripts\EditorScreens.rb
+Scripts\EditorScreens_TerrainTags.rb
+Scripts\EditorScreens_MapConnections.rb
+Scripts\EditorScreens_SpritePositioning.rb
+Scripts\================== (41).rb
+Scripts\[[ Animation editor ]].rb
+Scripts\AnimEditor_SceneElements.rb
+Scripts\AnimEditor_ControlsButtons.rb
+Scripts\AnimEditor_Interpolation.rb
+Scripts\AnimEditor_ExportImport.rb
+Scripts\AnimEditor_Functions.rb
+Scripts\================== (42).rb
+Scripts\[[ Debug menus ]].rb
+Scripts\Debug_Menus.rb
+Scripts\Debug_MenuCommands.rb
+Scripts\Debug_MenuExtraCode.rb
+Scripts\Debug_BattleCommands.rb
+Scripts\Debug_BattlePkmnCommands.rb
+Scripts\Debug_BattleExtraCode.rb
+Scripts\Debug_PokemonCommands.rb
+Scripts\Debug_FilenameUpdater.rb
+Scripts\================== (43).rb
+Scripts\[[ Compiler ]].rb
+Scripts\Compiler.rb
+Scripts\Compiler_CompilePBS.rb
+Scripts\Compiler_WritePBS.rb
+Scripts\Compiler_MapsAndEvents.rb
+Scripts\================== (44).rb
+Scripts\[[ Scripts de la base ]].rb
+Scripts\DP Scripting Utilities.rb
+Scripts\Exit Arrows.rb
+Scripts\Ocultar pies en la hierba.rb
+Scripts\Bag with interactuable party.rb
+Scripts\BetterMoveRelearner.rb
+Scripts\BetterSummary.rb
+Scripts\Debug Passability.rb
+Scripts\Encounter List UI.rb
+Scripts\ELNS Fancy Camera.rb
+Scripts\ExpShare.rb
+Scripts\Fondos Terrenos.rb
+Scripts\Repelente Infinito.rb
+Scripts\Marin's Map Exporter.rb
+Scripts\Overworld Shadows EX.rb
+Scripts\Pokevial.rb
+Scripts\Species Introduction.rb
+Scripts\Storage System Utilities.rb
+Scripts\PokedexQuickAccess.rb
+Scripts\TDW Debug List Search.rb
+Scripts\TradeFromPC.rb
+Scripts\Turbo.rb
+Scripts\Barras entrenadores.rb
+Scripts\Easy Debug Terminal.rb
+Scripts\ItemFind.rb
+Scripts\Mostrar nombres NPCs.rb
+Scripts\Incubadora.rb
+Scripts\PokedexSearcher.rb
+Scripts\RestoreItemsAfterBattle.rb
+Scripts\BagSearcher.rb
+Scripts\FormChanger.rb
+Scripts\Egg move tutor.rb
+Scripts\================== (45).rb
+Scripts\[[ Pokegear Themes ]].rb
+Scripts\Pokegear_Config.rb
+Scripts\Pokegear_Main.rb
+Scripts\Pokegear_Themes.rb
+Scripts\FL's Pokegear Watch addon.rb
+Scripts\Pokegear_Phone.rb
+Scripts\Pokegear_RegionMap.rb
+Scripts\Pokegear_ThemeButton.rb
+Scripts\Pokegear_ThemeOptions.rb
+Scripts\================== (46).rb
+Scripts\[[ Main ]].rb
+Scripts\Main.rb

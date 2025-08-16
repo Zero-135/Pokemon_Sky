@@ -94,8 +94,13 @@ Generation = 7
 Flags = InheritFormWithEverStone
 WildItemUncommon = PECHABERRY
 #-------------------------------
-[PIKACHU,2]
+[PIKACHU,1]
 FormName = Forma Coqueta
+GenderRatio = AlwaysFemale
+Abilities = LIGHTNINGROD
+#-------------------------------
+[PIKACHU,2]
+FormName = Forma Roquera
 GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
@@ -105,7 +110,7 @@ GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,4]
-FormName = Forma Enmascarada
+FormName = Forma Superstar
 GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
@@ -115,46 +120,44 @@ GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,6]
-FormName = Forma Superstar
+FormName = Forma Enmascarada
 GenderRatio = AlwaysFemale
 Abilities = LIGHTNINGROD
 #-------------------------------
 [PIKACHU,7]
-FormName = Forma Roquera
-GenderRatio = AlwaysFemale
-Abilities = LIGHTNINGROD
-#-------------------------------
-[PIKACHU,8]
 FormName = Forma Gorra Original
 GenderRatio = AlwaysMale
 #-------------------------------
-[PIKACHU,9]
+[PIKACHU,8]
 FormName = Forma Gorra Hoenn
 GenderRatio = AlwaysMale
 #-------------------------------
-[PIKACHU,10]
+[PIKACHU,9]
 FormName = Forma Gorra Sinnoh
 GenderRatio = AlwaysMale
 #-------------------------------
-[PIKACHU,11]
+[PIKACHU,10]
 FormName = Forma Gorra Teselia
 GenderRatio = AlwaysMale
 #-------------------------------
-[PIKACHU,12]
+[PIKACHU,11]
 FormName = Forma Gorra Kalos
 GenderRatio = AlwaysMale
 #-------------------------------
-[PIKACHU,13]
+[PIKACHU,12]
 FormName = Forma Gorra Alola
 GenderRatio = AlwaysMale
 #-------------------------------
-[PIKACHU,14]
+[PIKACHU,13]
 FormName = Forma Gorra Compañero
 GenderRatio = AlwaysMale
 #-------------------------------
-[PIKACHU,15]
+[PIKACHU,14]
 FormName = Forma Gorra Trotamundos
 GenderRatio = AlwaysMale
+#-------------------------------
+[PIKACHU,15]
+FormName = Forma Gigantamax
 #-------------------------------
 [RAICHU,1]
 FormName = Forma Alola
